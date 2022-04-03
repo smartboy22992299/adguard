@@ -24,7 +24,13 @@
 @@||googleusercontent.com^$client='mini20'
 @@||gstatic.com^$client='mini20'
 # microbit
-@@||makecode.microbit.org^$client='mini20'
+@@||makecode.microbit.org^$device='mini20'
+@@||makecode.com^$device='mini20'
+@@||www.pxt.io^$device='mini20'
+@@||trg-microbit.userpxt.io^$device='mini20'
+@@||pxt.azureedge.net^$device='mini20'
+@@||api.github.com^$device='mini20'
+@@||immersivereaderprod.cognitiveservices.azure.com^$device='mini20'
 # sis
 @@||singapore.edu.hk^$client='mini20'
 # zoom
