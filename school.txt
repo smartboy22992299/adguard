@@ -1,0 +1,30 @@
+# apple
+@@||akamaiedge.net^$client='mini20'
+@@||akamai.net^$client='mini20'
+@@||apple.com^$client='mini20'
+@@||icloud.com^$client='mini20'
+@@||mail.me.com^$client='mini20'
+@@||akadns.net^$client='mini20'
+@@||aaplimg.com^$client='mini20'
+@@||apple-dns.net^$client='mini20'
+@@||icloud-content.com^$client='mini20'
+# classkick
+@@||classkick.com^$client='mini20'
+@@||cloudfront.net^$client='mini20'
+@@||firebaseio.com^$client='mini20'
+@@||js.stripe.com^$client='mini20'
+@@||m.stripe.com^$client='mini20'
+@@||m.stripe.network^$client='mini20'
+# google
+@@||google.com^$client='mini20'
+@@||forms.gle^$client='mini20'
+@@||gmail.com^$client='mini20'
+@@||google.com.hk^$client='mini20'
+@@||googleapis.com^$client='mini20'
+@@||googleusercontent.com^$client='mini20'
+@@||gstatic.com^$client='mini20'
+# sis
+@@||singapore.edu.hk^$client='mini20'
+# zoom
+@@||zoom.com^$client='mini20'
+@@||zoom.us^$client='mini20'
