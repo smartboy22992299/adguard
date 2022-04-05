@@ -1,38 +1,45 @@
 # apple
-@@||akamaiedge.net^$client='mini20'
-@@||akamai.net^$client='mini20'
-@@||apple.com^$client='mini20'
-@@||icloud.com^$client='mini20'
-@@||mail.me.com^$client='mini20'
-@@||akadns.net^$client='mini20'
-@@||aaplimg.com^$client='mini20'
-@@||apple-dns.net^$client='mini20'
-@@||icloud-content.com^$client='mini20'
+@@||akamaiedge.net^$ctag=user_child
+@@||akamai.net^$ctag=user_child
+@@||apple.com^$ctag=user_child
+@@||icloud.com^$ctag=user_child
+@@||mail.me.com^$ctag=user_child
+@@||akadns.net^$ctag=user_child
+@@||aaplimg.com^$ctag=user_child
+@@||apple-dns.net^$ctag=user_child
+@@||icloud-content.com^$ctag=user_child
 # classkick
-@@||classkick.com^$client='mini20'
-@@||cloudfront.net^$client='mini20'
-@@||firebaseio.com^$client='mini20'
-@@||js.stripe.com^$client='mini20'
-@@||m.stripe.com^$client='mini20'
-@@||m.stripe.network^$client='mini20'
+@@||classkick.com^$ctag=user_child
+@@||cloudfront.net^$ctag=user_child
+@@||firebaseio.com^$ctag=user_child
+@@||js.stripe.com^$ctag=user_child
+@@||m.stripe.com^$ctag=user_child
+@@||m.stripe.network^$ctag=user_child
 # google
-@@||google.com^$client='mini20'
-@@||forms.gle^$client='mini20'
-@@||gmail.com^$client='mini20'
-@@||google.com.hk^$client='mini20'
-@@||googleapis.com^$client='mini20'
-@@||googleusercontent.com^$client='mini20'
-@@||gstatic.com^$client='mini20'
+@@||google.com^$ctag=user_child
+@@||forms.gle^$ctag=user_child
+@@||gmail.com^$ctag=user_child
+@@||google.com.hk^$ctag=user_child
+@@||googleapis.com^$ctag=user_child
+@@||googleusercontent.com^$ctag=user_child
+@@||gstatic.com^$ctag=user_child
 # microbit
-@@||makecode.microbit.org^$device='mini20'
-@@||makecode.com^$device='mini20'
-@@||www.pxt.io^$device='mini20'
-@@||trg-microbit.userpxt.io^$device='mini20'
-@@||pxt.azureedge.net^$device='mini20'
-@@||api.github.com^$device='mini20'
-@@||immersivereaderprod.cognitiveservices.azure.com^$device='mini20'
+@@||makecode.microbit.org^$ctag=user_child
+@@||makecode.com^$ctag=user_child
+@@||www.pxt.io^$ctag=user_child
+@@||trg-microbit.userpxt.io^$ctag=user_child
+@@||pxt.azureedge.net^$ctag=user_child
+@@||api.github.com^$ctag=user_child
+@@||immersivereaderprod.cognitiveservices.azure.com^$ctag=user_child
+# padlet
+@@||padlet.com^$ctag=user_child
+@@||padlet.net^$ctag=user_child
+@@||padlet.pics^$ctag=user_child
+@@||padletcdn.com^$ctag=user_child
+@@||cdn.mathjax.org^$ctag=user_child
+@@||cdnjs.cloudflare.com^$ctag=user_child
 # sis
-@@||singapore.edu.hk^$client='mini20'
+@@||singapore.edu.hk^$ctag=user_child
 # zoom
-@@||zoom.com^$client='mini20'
-@@||zoom.us^$client='mini20'
+@@||zoom.com^$ctag=user_child
+@@||zoom.us^$ctag=user_child
