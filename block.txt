@@ -1,5 +1,2 @@
-# block all
-# /.*/$client='mini20'
-#
 # block .io (lots of games)
 /\.io$/$ctag=user_child
