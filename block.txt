@@ -3,6 +3,3 @@
 #
 # block .io (lots of games)
 /\.io$/$ctag=user_child
-# allow microbits
-@@||www.pxt.io^$ctag=user_child
-@@||trg-microbit.userpxt.io^$ctag=user_child
