@@ -40,6 +40,8 @@
 @@||cdnjs.cloudflare.com^$ctag=user_child
 # sis
 @@||singapore.edu.hk^$ctag=user_child
+# wevideo.com
+@@||wevideo.com^$ctag=user_child
 # zoom
 @@||zoom.com^$ctag=user_child
 @@||zoom.us^$ctag=user_child
