@@ -1,1 +1,1 @@
-/(game|gaming|minecraft|multicraft|yandex|zombs.io)/$ctag=user_child
+/(game|gaming|minecraft|multicraft|yandex)/$ctag=user_child
