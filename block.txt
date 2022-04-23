@@ -1,2 +1,1 @@
-# block .io (lots of games)
-/\.io$/$ctag=user_child
+
